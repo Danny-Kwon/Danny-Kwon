@@ -9,5 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Kotlin](https://img.shields.io/badge/kotlin)
+![Static Badge](https://img.shields.io/badge/kotlin-purple?logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)

@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Static Badge](https://img.shields.io/badge/kotlin-purple?logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F)
+Languages:
+![Static Badge](https://img.shields.io/badge/kotlin-purple?logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F) ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&link=https%3A%2F%2Fwww.python.org%2F) ![Static Badge](https://img.shields.io/badge/C%2B%2B-orange?logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/Java-yellow?logo=java) 
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+Frameworks:
+![Static Badge](https://img.shields.io/badge/Android-lightgreen?logo=android) ![Static Badge](https://img.shields.io/badge/Springboot-lightblue?logo=spring) 

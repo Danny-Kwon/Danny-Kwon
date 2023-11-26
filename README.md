@@ -9,4 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![Kotlin](https://img.shields.io/badge/kotlin)
+![Kotlin](https://img.shields.io/badge/kotlin)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)

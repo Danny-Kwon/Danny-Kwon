@@ -6,7 +6,7 @@ I'm going to graduate from my university in Feb. 2024. As soon as possible, I'll
 
 This is my self introduction video.
 
-[![예제](https://youtu.be/4X61QVbwz2o?si=ppQahou7r1mbh2OZ)]([https://youtu.be/RlQEoJaLQRA?t=0s](https://youtu.be/4X61QVbwz2o?si=ppQahou7r1mbh2OZ)) 
+ {% include video.html id="[https://youtu.be/4X61QVbwz2o?si=gRUTGlw2ptdbgFdN]" %}
 
 Languages:
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-orange?logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/kotlin-purple?logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F) ![Static Badge](https://img.shields.io/badge/java-green?logo=java) ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html) ![Static Badge](https://img.shields.io/badge/css-yellow?logo=css) ![Static Badge](https://img.shields.io/badge/javascript-orange?logo=javascript) ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&link=https%3A%2F%2Fwww.python.org%2F)

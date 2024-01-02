@@ -4,7 +4,8 @@ I am a senior university student from Republic of Korea. I have majored in compu
 
 I'm going to graduate from my university in Feb. 2024. As soon as possible, I'll be arrived in Brazil to start my career as AI SW developer or AI researcher. I've studied how to create Android mobile applications, and I'm also working as an Intern at SEO corporation.
 
-Soon, I will post some videos that show my motivation and vision.
+This is my self introduction video.
+https://youtu.be/4X61QVbwz2o?si=ppQahou7r1mbh2OZ
 
 Languages:
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-orange?logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/kotlin-purple?logo=kotlin&link=https%3A%2F%2Fkotlinlang.org%2F) ![Static Badge](https://img.shields.io/badge/java-green?logo=java) ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html) ![Static Badge](https://img.shields.io/badge/css-yellow?logo=css) ![Static Badge](https://img.shields.io/badge/javascript-orange?logo=javascript) ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&link=https%3A%2F%2Fwww.python.org%2F)

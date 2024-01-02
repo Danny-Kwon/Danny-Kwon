@@ -2,7 +2,7 @@
 
 I am a senior university student from Republic of Korea. I have majored in computer engineering. I am interested in the way to apply AI to resolve social problems.
 
-I'm going to graduate from my university in Feb. 2024. As soon as possible, I'll be arrived in Brazil to start my career as AI SW developer or AI researcher. I've studied how to create Android mobile applications, and I'm also working as an Intern at SEO corporation.
+I'm going to graduate from my university in Feb. 2024. As soon as possible, I'll be arrived in Brazil to start my career as AI SW developer or Moblie Application developer. I've studied how to create Android mobile applications, and I worked for 5 months as an Intern at SEO corporation.
 
 This is my self introduction video.
 
